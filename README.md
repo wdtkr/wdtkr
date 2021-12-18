@@ -1,6 +1,6 @@
-# やあ
+<h1 align="center">やあ</h1>
 
-## わだたけるです。✋
+<h2 align="center">わだたけるです。✋</h2>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
