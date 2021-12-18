@@ -1,20 +1,20 @@
 # やあ
 
+## わだたけるです。✋
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wdtkr&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wdtkr&theme=dracula" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdtkr&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wdtkr&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wdtkr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/wdtkr_425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdtkr_425" height="30" width="40" /></a>
-<a href="https://instagram.com/_100wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_100wd" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
+<h3 align="center">さわったことあるやつ</h3>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -35,3 +35,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
+
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wdtkr&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wdtkr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<h3 align="center">えすえぬえす(クリックすると見れるよ。)</h3>
+<p align="center">
+<a href="https://twitter.com/wdtkr_425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdtkr_425" height="30" width="40" /></a>
+<a href="https://instagram.com/_100wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_100wd" height="30" width="40" /></a>
+</p>
+
