@@ -2,17 +2,12 @@
 
 <h2 align="center">わだたけるです。✋</h2>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wdtkr&theme=dracula" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wdtkr&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wdtkr&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdtkr&theme=dracula" />
 </a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdtkr&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3 align="center">さわったことあるやつ</h3>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
