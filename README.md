@@ -1,4 +1,4 @@
-<h1 align="center">やあ</h1>
+<h1 align="center">こんにちは！！！</h1>
 
 <h2 align="center">わだたけるです。✋</h2>
 
