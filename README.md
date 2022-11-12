@@ -38,7 +38,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=wdtkr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3 align="center">えすえぬえす(クリックすると見れるよ。)</h3>
+<h3 align="center">SNS</h3>
 <p align="center">
 <a href="https://twitter.com/wdtkr_425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdtkr_425" height="30" width="40" /></a>
 <a href="https://instagram.com/wdtkru.org.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_100wd" height="30" width="40" /></a>
